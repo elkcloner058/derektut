@@ -1,5 +1,6 @@
 #include<iostream>
 using namespace std;
+//First comment has been added
 
 int KMP_int(char *string)
 {
