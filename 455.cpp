@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 //First comment has been added
-
+//This line is added in dev2 branch
 int KMP_int(char *string)
 {
 	int len = strlen(string);
