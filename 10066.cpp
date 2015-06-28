@@ -14,6 +14,8 @@ using namespace std;
 //this line is added on 220415 at 1210pm
 long int c[1000][1000];
 //When the night has come and the land is dark
+//tui ki janish na tor jonno kanna vorer ghasher thoter shishir 
+//hoe chote...
 int max(long int a, long int b)
 {
 	if(a>b)
