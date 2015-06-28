@@ -1,7 +1,10 @@
 #include<iostream>
 using namespace std;
 //First comment has been added
+//This line has been added in remote branch
 
+
+//There is another line
 int KMP_int(char *string)
 {
 	int len = strlen(string);
