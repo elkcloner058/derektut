@@ -1,10 +1,15 @@
 #include<iostream>
 using namespace std;
 //First comment has been added
+<<<<<<< HEAD
 //This line has been added in remote branch
 
 
 //There is another line
+=======
+//This line is added in dev2 branch and this is also the modified line
+//this is another line
+>>>>>>> 21eb8eb0b55dcdfd2bba0a8615f3526db6ade682
 int KMP_int(char *string)
 {
 	int len = strlen(string);
