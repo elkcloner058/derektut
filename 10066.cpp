@@ -21,7 +21,7 @@ long int c[1000][1000];
 //tui ki janish na tor jonno kanna vorer ghasher thoter shishir 
 //hoe chote...
 //a merge conflict will be done here
-int max(long int a, long int jubair)
+int max(long int a, long int junaid)
 {
 	if(a>b)
 
