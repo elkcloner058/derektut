@@ -1,7 +1,8 @@
 #include<iostream>
 using namespace std;
 //First comment has been added
-//This line is added in dev2 branch
+//This line is added in dev2 branch and this is also the modified line
+//this is another line
 int KMP_int(char *string)
 {
 	int len = strlen(string);
