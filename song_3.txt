@@ -1,2 +1,0 @@
-This is the first commit
-This line is added in second commit
