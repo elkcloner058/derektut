@@ -1,10 +1,23 @@
 <<<<<<< HEAD
 This is also another line which is added from pc
 =======
+
+//huge change has been made
 //this line is added at the same time when branch code was committed
 This file has been modified from server.Someone modified this on 220415 at 0610PM
 >>>>>>> 877d6a6172709f6a5ce2633435f7ce5339a0fa82
-Hi this is a sample file
+Hi this is a sample files
+//ham tere bin ab rehe nehi sakte 
+//tere bin na kewa jud mere
+
+This is third time changed file(Junaid bin ahsan)
+
+This is the forth line added in this file(junaid)
+
+fifth line is added(junaid bin ahsan)
+
+this file has been updated from server
+
 
 This is another line that was added later
 

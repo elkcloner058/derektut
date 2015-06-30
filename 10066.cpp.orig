@@ -20,8 +20,12 @@ long int c[1000][1000];
 //When the night has come and the land is dark
 //tui ki janish na tor jonno kanna vorer ghasher thoter shishir 
 //hoe chote...
+<<<<<<< HEAD
+int max(long int a, long int b)
+=======
 //a merge conflict will be done here
 int max(long int a, long int junaid)
+>>>>>>> 3e9a87d8e712b7f2b0e8b2c33a5c83a91fa3a050
 {
 	if(a>b)
 
