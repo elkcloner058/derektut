@@ -3,7 +3,7 @@ using namespace std;
 //First comment has been added
 <<<<<<< HEAD
 //This line has been added in remote branch
-
+//This line has been added in folder4 
 
 //There is another line
 =======
@@ -17,7 +17,7 @@ int KMP_int(char *string)
 
 	int table[10000];
 	table[0]=-1;
-
+//this is the end
     while(1)
 	{
 		if(i==len)
