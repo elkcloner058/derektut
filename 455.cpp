@@ -3,7 +3,7 @@ using namespace std;
 //First comment has been added
 <<<<<<< HEAD
 //This line has been added in remote branch
-
+//this line is added in first commit
 
 //There is another line
 =======
